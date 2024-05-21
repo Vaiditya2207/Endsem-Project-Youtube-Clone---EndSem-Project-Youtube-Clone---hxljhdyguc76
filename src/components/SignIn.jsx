@@ -29,7 +29,7 @@ function SignIn(props) {
       props.setUserdata.setToken(data.token);
       props.setUserdata.setEmail(data.data.user.email);
       alert(`Welcome to YouTube ${data.data.user.name}`)
-      navigate('/');
+      navigate('/home');
     }
 
   }

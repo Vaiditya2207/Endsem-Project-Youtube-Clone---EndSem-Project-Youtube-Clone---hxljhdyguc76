@@ -36,7 +36,7 @@ function SignUp() {
 
     const data = await response.json();
     if (data.status === "success"){
-      alert("User Created Successfully");
+      alert("Account created successfully. Please sign in to continue.");
       navigate('/signin');
     }else{
       alert(data.message);

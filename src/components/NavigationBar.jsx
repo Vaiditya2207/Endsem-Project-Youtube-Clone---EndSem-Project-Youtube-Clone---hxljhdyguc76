@@ -9,6 +9,7 @@ function NavigationBar(props) {
       props.setUserdata.setUsername('');
       props.setUserdata.setToken('');
       props.setUserdata.setEmail('');
+      navigate('/home');
     }else{
       navigate('/signin');
     }
