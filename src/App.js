@@ -38,7 +38,7 @@ function App() {
     <Router>
       <NavigationBar userdata = {userdata} setUserdata = {setUserdata}/>
       <Routes>
-        <Route path="/home" element={<Home userdata = {userdata}/>} />
+        <Route path="/" element={<Home userdata = {userdata}/>} />
         <Route path = "/signup" element = {<SignUp />} />
         <Route path="/signin" element= {<SignIn setUserdata = {setUserdata}/>} />
         <Route path="/detail/:id" element={<MovieDetail userdata = {userdata} />} />
