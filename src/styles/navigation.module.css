@@ -1,0 +1,25 @@
+.navigationBar {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.8);
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top : 0;
+  width: 100%;
+  z-index: 1000;
+}
+.logo {
+  height: 38px;
+  margin-left: 25px;
+}
+
+.signIn {
+  background-color: red;
+  color: #ffffff;
+  border: none;
+  border-radius: 3px;
+  margin-right: 20px;
+  padding: 0.5rem 1.2rem;
+  font-size: 0.9rem;
+}

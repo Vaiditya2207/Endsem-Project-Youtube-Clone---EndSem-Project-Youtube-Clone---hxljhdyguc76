@@ -1,0 +1,41 @@
+.thumbnail {
+    height: 350px;
+    width: 320px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.imageContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    color:#ffffff;
+    margin-top: 10px;
+    margin-left: 11px;
+    margin-bottom: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.container {
+    overflow: hidden;
+    margin-left: 10px;
+}
+.genre{
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.buyOrRent {
+    color: rgb(17, 162, 17);
+    font-weight: bold;
+    background-color: rgb(49, 46, 46);
+    border: none;
+    border-radius: 2px;
+    padding: 3px 4px;
+    margin-left: 10px;
+}

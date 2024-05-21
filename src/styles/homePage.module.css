@@ -1,0 +1,12 @@
+.body {
+    background-color: black;
+    min-height: 100vh;
+    padding: 80px 80px;
+}
+
+.horizontalRule {
+    height: 0.5px;
+    background-color: #837c7c;
+    border: none;
+    margin-top: 15px;
+}

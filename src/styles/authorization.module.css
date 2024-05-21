@@ -1,0 +1,112 @@
+.container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(18, 17, 17);
+}
+
+.SignUpform {
+  margin-top: 220px;
+  height: 47vh;
+  width: 100%;
+  background-color: rgb(66, 66, 66);
+  max-width: 340px;
+  padding: 1vh 3%;
+  border: none;
+  border-radius: 7px;
+  box-sizing: border-box;
+}
+
+.headingSignUp {
+  margin-top: 35px;
+  font-size: 24px;
+  color: #ffffff;
+  margin-bottom: 1em;
+}
+
+.inputSignUp {
+  border: 1px solid rgb(115, 112, 112);
+  padding: 0.9em 0.7em;
+  margin-bottom: 0.9em;
+  border-radius: 3px;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgb(44, 44, 44);
+  color: #ffffff;
+}
+
+::placeholder {
+  color: #a9a6a6;
+}
+
+.signInButton {
+  background-color: red;
+  color: #f2f2f2;
+  padding: 0.7em;
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 3px;
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 5px;
+}
+
+.alreadyAccount {
+  color: #c5c0c0;
+  font-size: 10px;
+}
+
+.SignInform {
+  margin-top: 220px;
+  height: 47vh;
+  width: 100%;
+  background-color: rgb(66, 66, 66);
+  max-width: 340px;
+  padding: 1vh 3%;
+  border: none;
+  border-radius: 7px;
+  box-sizing: border-box;
+}
+
+.headingSignIn {
+  margin-top: 4em;
+  font-size: 24px;
+  color: rgb(255, 102, 0);
+  margin-bottom: 0.8em;
+}
+
+.inputSignIn {
+  border: 1px solid rgb(164, 162, 162);
+  padding: 0.5em 0.7em;
+  margin-bottom: 0.5em;
+  border-radius: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.continueSignInButton {
+  background-color: rgb(87, 87, 87);
+  border: none;
+  color: #f2f2f2;
+  margin-top: 0.7em;
+  padding: 0.6em;
+  text-align: center;
+  margin-bottom: 3em;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.SignInform {
+  margin-top: 108px;
+  height: 42vh;
+  width: 100%;
+  background-color: rgb(66, 66, 66);
+  max-width: 330px;
+  padding: 1vh 3%;
+  border: none;
+  border-radius: 7px;
+  box-sizing: border-box;
+}
