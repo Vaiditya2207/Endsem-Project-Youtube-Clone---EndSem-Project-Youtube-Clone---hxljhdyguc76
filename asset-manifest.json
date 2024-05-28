@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/static/css/main.f27f5022.css",
+    "main.js": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/static/js/main.a2c402bd.js",
+    "static/js/453.79faa093.chunk.js": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/static/js/453.79faa093.chunk.js",
+    "static/media/slick.svg": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/index.html",
+    "main.f27f5022.css.map": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/static/css/main.f27f5022.css.map",
+    "main.a2c402bd.js.map": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/static/js/main.a2c402bd.js.map",
+    "453.79faa093.chunk.js.map": "/Endsem-Project-Youtube-Clone---EndSem-Project-Youtube-Clone---hxljhdyguc76/static/js/453.79faa093.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f27f5022.css",
+    "static/js/main.a2c402bd.js"
+  ]
+}
